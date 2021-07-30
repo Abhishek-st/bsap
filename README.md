@@ -1,7 +1,7 @@
 # BlueSkyAnlytics Assignment
 
 <h2>Demo Video Link : </h2>
-https://drive.google.com/file/d/16n7UAJ72PVBOQFYIAqYZleJ-QxaLO5az/view?usp=sharing
+https://drive.google.com/drive/folders/1XXB0VITqSFiHUGudSiz5SI1Ao-DvM7uB?usp=sharing
 <br>
 
 <h2>Inatallation SetUp</h2>
