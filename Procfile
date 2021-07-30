@@ -1,0 +1,1 @@
+web: gunicorn bsaAPi.wsgi --log-file -
